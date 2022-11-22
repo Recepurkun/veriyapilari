@@ -1,0 +1,1 @@
+# singlylinkedlist_veriproje
